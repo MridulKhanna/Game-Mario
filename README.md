@@ -6,4 +6,4 @@ For starting the game you need to hit the space button.The up and down arrow key
 
 Background music has been included in the game.As soon the the fireball hits the dragon or the player or even if the player hits the cactus or bottom fire,the game ends.
 
-Various inbuilt functions and libraries in Pygame have been used like loading the background music, blit one object on the surface of another object, event handling like pressing or releasing of keys,the FPS(Frames per second) of the game,managing the positions and velocities of the player and the dragon and the speed of of the fireballs.
+Various inbuilt functions and libraries in Pygame have been used for loading the background music, blit one object on the surface of another object, event handling like pressing or releasing of keys,the FPS(Frames per second) of the game,managing the positions and velocities of the player and the dragon and the speed of of the fireballs.
